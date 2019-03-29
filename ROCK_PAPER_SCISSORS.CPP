@@ -20,6 +20,7 @@ std::cout << "2) ✋\n";
 std::cout << "3) ✌️\n";
 
 std::cout << "shoot! ";
+std::cout << "enter your choice\n";  
 std::cin >> user;
   
 std::cout << "Compare your results to the computer's results\n";
